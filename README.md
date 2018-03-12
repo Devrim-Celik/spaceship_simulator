@@ -1,5 +1,13 @@
 # Spaceship Simulator
 
+---
+
+## Showcase
+
+![Showcase](https://github.com/SneakySheep/spaceship_simulator/blob/master/showcase/showcase1.mp4)
+
+---
+
 ## Todo List
 
 * Urgent --> #2, #3, #4, #5
